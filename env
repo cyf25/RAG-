@@ -1,0 +1,12 @@
+# Rename this file to .env and put your own keys in it
+# You can ignore api keys for jina and gemini, if you don't plan to use them
+
+# DashScope API Key for Qwen models (Required for text embedding and Q&A)
+DASHSCOPE_API_KEY=sk-c49f9577a12d4329b1158c137d30b398
+
+OPENAI_API_KEY=sk-proj-whzhp2I...
+
+GEMINI_API_KEY=AIzaS...
+
+# Jina Reranker v2 from https://jina.ai/reranker/
+JINA_API_KEY=jina_e37f9...
